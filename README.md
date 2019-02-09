@@ -1,5 +1,4 @@
 Requirements :
-
- -- Google colabs or jupyter notebook
  -- python 3
+ -- Google colabs or jupyter notebook
  -- pandas 
